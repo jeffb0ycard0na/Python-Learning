@@ -45,3 +45,5 @@ for character in ipAddress:
 # unless the final character in the string was a . then we haven't printed the last segment
 # if character != '.':
 #   print("segment {} contains {} characters".format(segment, segment_length))
+# I made changes here.
+
